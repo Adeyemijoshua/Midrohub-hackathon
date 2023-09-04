@@ -1,0 +1,2 @@
+JavaScript, often abbreviated as JS, is a versatile and widely-used programming language that plays a pivotal role in modern web development. Initially developed as a way to add interactivity to web pages, JS has evolved into a robust language that can be used for both front-end and back-end development.
+
